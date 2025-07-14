@@ -10,5 +10,5 @@ mkdir -p "$CONFIG_DIR"
 echo "Linking config.yml"
 ln -sf "$(pwd)/config.yml" "$CONFIG_DIR/config.yml"
 
-echo "Complete Successfully!"
+echo "Completed Successfully!"
 
